@@ -11,7 +11,7 @@ This repository contains the code and Data to reproduce the figures published in
 - `aa_frquency.ipynb` contains the code to reproduce Figure S4
 - `deNovoAgeinfluence.ipynb` contains the code to reproduce Figure 5B&C and Figure S5
 
-### Usage
+### Installation
 
 **Requirements:**
 - [anaconda](https://www.anaconda.com/products/individual)
