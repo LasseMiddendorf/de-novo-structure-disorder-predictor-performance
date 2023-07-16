@@ -14,7 +14,7 @@ This repository contains the code and Data to reproduce the figures published in
 ### Usage
 
 **Requirements:**
-- [anaconda] (https://www.anaconda.com/products/individual)
+- [anaconda](https://www.anaconda.com/products/individual)
 
 **Usage:**
 1. Clone this repository
