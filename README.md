@@ -1,6 +1,7 @@
 # Performance of AF2 and ESMFold as disorder predictors for de novo proteins and random sequences
 
-This repository contains the code and Data to reproduce the figures published in <Doi here>.
+This repository contains the code and Data to reproduce the figures published in Middendorf & Eicholt (2023) "Random, de novo and conserved proteins: How
+structure and disorder predictors perform differently".
 
 ### Content
 
