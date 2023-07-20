@@ -5,6 +5,7 @@ structure and disorder predictors perform differently".
 
 ### Content
 
+- `Utils` contains a selection of scripts used in this study.
 - `Data` contains all datasets used in this study. A detailed description of the datasets features can be found in the `README.md` file in the `Data` folder.
 - `structuralComparisons.ipynb` contains the code to reproduce Figure 1 and Figure S1B
 - `correlationsOfFeatures.ipynb` contains the code to reproduce Figure 2, Figure S1A, and Figure S2A, S2B, S2D, S2E
